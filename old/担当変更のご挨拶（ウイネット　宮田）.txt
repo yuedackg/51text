@@ -1,0 +1,128 @@
+Delivered-To: y.ueda@ckg.ac.jp
+Received: by 10.2.102.30 with SMTP id k30csp3201002jac; Mon, 16 Oct 2017 02:11:18 -0700 (PDT)
+X-Google-Smtp-Source: AOwi7QDGcsYl/ai60UmAkzaldbVBUQMV+kIFDfMSKSKRQJ5DW2Jumh3+jJAPKNn7FEtaB9bly1LV
+X-Received: by 10.99.123.71 with SMTP id k7mr7576149pgn.312.1508145078495; Mon, 16 Oct 2017 02:11:18 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1508145078; cv=none; d=google.com; s=arc-20160816; b=If1c1JecbuLwragxrTxvpwP5i+Btw//5kPZ43xP80/H81kCl0fB9OUM816SLkwYncR V9195Jv+RXbottI+l4R/5NSgPSI6cSE4YaaCWkOPWZL5vMDkGm5Ze5b7JAYMBwxX9S+W i7AW7IA5Gmeh0HcIYjbDG4q33+V9rpPktuAUL6DnQTtQMyH2mzEUAX2R1zaDZMQdM5S4 NQAg9SwdihXo4etfuANe3GaFWoysZBUxn8b1ekE0uJN3SVXR0a5WMzJtmLUNqQ12SYQ0 KUytt7L1tDCjyK7kJEYTKqqn2ZMyVLfnQakwsPkMU1udepp8dy6tXW4Uw6H1XfH+ruG0 14Rg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816; h=thread-index:content-language:mime-version:message-id:date:subject :to:from:arc-authentication-results; bh=NGZfdu2hXTolK4x8MS2xbd+LTLAfLUmzmcUM21t35/E=; b=GcbxHgTJqE6UCPgHB57IYUbGKusEsPl9tHPjn6LUvQ0Az+o1m8C3u7a7BjSE0yEc2i iMxMI79M4JoJOmiZKazMdHtyHr6tYNn4MIVD7ZgnRQNO0GlQYTAwjHZX16lBVwC1D82W s2OSlIRMvTKnzWfV2BLtQBCx7hYDIbw9veEKhYVbIrFOqHUhR4oPyQJl5UfslftYztih AuhLxjhqLrgvwuRQFC2DRGCucX3aJnCL5xwrS9V+GTC0a10wqQ2iNkHTE86o2R2PuU87 V4f97uL/1hoiXp1AksX9FLMf8c414/w2iKyWeEQDzxtuURx5qh1ps8ot0WtbO1lWyDV6 Cjew==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain of kyouiku@wenet-inc.com designates 218.223.40.73 as permitted sender) smtp.mailfrom=kyouiku@wenet-inc.com
+Return-Path: <kyouiku@wenet-inc.com>
+Received: from vmail03a.niigata-inet.or.jp (lb1-vmail03a.niigata-inet.or.jp. [218.223.40.73]) by mx.google.com with ESMTPS id v4si3878277pgf.178.2017.10.16.02.11.17 for <y.ueda@ckg.ac.jp> (version=TLS1 cipher=AES128-SHA bits=128/128); Mon, 16 Oct 2017 02:11:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of kyouiku@wenet-inc.com designates 218.223.40.73 as permitted sender) client-ip=218.223.40.73;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of kyouiku@wenet-inc.com designates 218.223.40.73 as permitted sender) smtp.mailfrom=kyouiku@wenet-inc.com
+Received: (qmail 30850 invoked by uid 1011); 16 Oct 2017 18:11:16 +0900
+Received: from unknown (HELO ThinkPadEdge2) (kyouiku@wenet-inc.com@210.158.161.204) by vmail03a.niigata-inet.or.jp with ESMTPA; 16 Oct 2017 18:11:16 +0900
+From: ウイネット <kyouiku@wenet-inc.com>
+To: <y.ueda@ckg.ac.jp>
+Subject: 担当変更のご挨拶（ウイネット　宮田）
+Date: Mon, 16 Oct 2017 18:11:13 +0900
+Message-ID: <009601d3465e$b6dc08e0$24941aa0$@wenet-inc.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_0097_01D346AA.26C3B0E0"
+X-Mailer: Microsoft Outlook 14.0
+Content-Language: ja
+Thread-Index: AdNGXnn2DYbrW2J2SFKgf7L9nwH7vA==
+
+コンピュータ教育学院
+
+植田　吉祥　様
+
+
+
+お世話になっております。ウイネットの宮田でございます。
+
+先ほどはお電話にてありがとうございました。
+
+
+
+工藤に代わりまして今後私、宮田が担当させていただきます。
+
+どうぞよろしくお願いいたします。教材に関してご要望等が
+
+ございましたらお気軽にお問い合わせください。
+
+
+
+取り急ぎご挨拶申し上げます。
+
+今後ともどうぞよろしくお願いいたします。
+
+
+
+□■━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+株式会社ウイネット
+営業推進部　企画営業グループ　宮田　亮
+〒950-0901
+新潟県新潟市中央区弁天3-2-20
+弁天501ビル　5F
+TEL 025-246-9172　FAX 025-246-5828
+mail  <mailto:kyouiku@wenet-inc.com（ご注文等> kyouiku@wenet-inc.com（ご注文
+等）　　　
+ <mailto:miyata.ryo@wenet-inc.com> miyata.ryo@wenet-inc.com
+URL  <http://wenet.co.jp> http://wenet.co.jp
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━■□
+
+
+
+
+------------------------------------------------------------------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=iso-2022-jp"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:"\@ＭＳ ゴシック";
+	panose-1:2 11 6 9 7 2 5 8 2 4;}
+@font-face
+	{font-family:"\@ＭＳ Ｐゴシック";
+	panose-1:2 11 6 0 7 2 5 8 2 4;}
+@font-face
+	{font-family:メイリオ;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@メイリオ";
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Arial","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.17
+	{mso-style-type:personal-compose;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Arial","sans-serif";}
+/* Page Definitions */
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:99.25pt 30.0mm 30.0mm 30.0mm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026">
+<v:textbox inset="5.85pt,.7pt,5.85pt,.7pt" />
+</o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=JA link=blue vlink=purple style='text-justify-trim:punctuation'><div class=WordSection1><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>コンピュータ教育学院</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>植田　吉祥　様</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>お世話になっております。ウイネットの宮田でございます。</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>先ほどはお電話にてありがとうございました。</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>工藤に代わりまして今後私、宮田が担当させていただきます。</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>どうぞよろしくお願いいたします。教材に関してご要望等が<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>ございましたらお気軽にお問い合わせください。</span><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>取り急ぎご挨拶申し上げます。<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:メイリオ'>今後ともどうぞよろしくお願いいたします。<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal align=left style='text-align:left'><span style='font-size:10.0pt;font-family:メイリオ;color:black'>□■━━━━━━━━━━━━━━━━━━━━━━━━━━━━<span lang=EN-US><br><br></span>株式会社ウイネット<span lang=EN-US><br></span>営業推進部　企画営業グループ　宮田　亮<span lang=EN-US><br></span>〒<span lang=EN-US>950-0901<br></span>新潟県新潟市中央区弁天<span lang=EN-US>3-2-20<br></span>弁天<span lang=EN-US>501</span>ビル　<span lang=EN-US>5F<br>TEL 025-246-9172</span>　<span lang=EN-US>FAX 025-246-5828<br>mail <a href="mailto:kyouiku@wenet-inc.com（ご注文等"><span style='color:blue'>kyouiku@wenet-inc.com</span><span lang=EN-US style='color:blue'><span lang=EN-US>（ご注文等</span></span></a></span>）　　　<span lang=EN-US><br><a href="mailto:miyata.ryo@wenet-inc.com"><span style='color:blue'>miyata.ryo@wenet-inc.com</span></a><br>URL <a href="http://wenet.co.jp"><span style='color:blue'>http://wenet.co.jp</span></a><br><br></span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━■□<span lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p></div></body></html>
